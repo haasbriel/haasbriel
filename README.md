@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haasbriel;
-- 👀 I’m interested in Java;
+- 👀 I’m interested in cybersecurity and web developing.
 - 🌱 I’m currently learning Software Engineering in UEPG;
 - 📫 How to reach me: Instagram @haasbriel, Twitter @haasbriel.
 
